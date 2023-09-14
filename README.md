@@ -9,10 +9,15 @@
 <!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20PHP%20%7C%20MySQL-blue">
-  <img src="https://img.shields.io/github/license/YourUsername/Dynamic_Portfolio">
-  <img src="https://img.shields.io/github/stars/YourUsername/Dynamic_Portfolio?style=social">
-  <img src="https://img.shields.io/github/forks/YourUsername/Dynamic_Portfolio?style=social">
+  <img src="https://img.shields.io/github/license/Abhisheksingh0303/Dynamic_Portfolio">
+  <img src="https://img.shields.io/github/stars/Abhisheksingh0303/Dynamic_Portfolio?style=social">
+  <img src="https://img.shields.io/github/forks/Abhisheksingh0303/Dynamic_Portfolio?style=social">
 </p>
+
+<!-- Project Overview -->
+## Project Overview
+
+Create a stunning personal portfolio website that's fully customizable and easy to manage. Whether you're a developer, designer, or creative professional, Dynamic Portfolio empowers you to showcase your skills, projects, and personal details in a dynamic and visually appealing way.
 
 
 <!-- Features -->
@@ -25,18 +30,6 @@
 - **Contact Form**: Allow visitors to reach out to you easily with a built-in contact form.
 - **Skills & Experience**: Display your skills, work experience, education, and interests.
 - **User Authentication**: Secure your admin panel with user authentication for data protection.
-- **Technologies**: Built using HTML, CSS, JavaScript, PHP, and MySQL.
-- **Open Source**: Feel free to fork and customize this portfolio template to suit your needs.
-
-
-
-<!-- Project Overview -->
-## Project Overview
-
-Create a stunning personal portfolio website that's fully customizable and easy to manage. Whether you're a developer, designer, or creative professional, Dynamic Portfolio empowers you to showcase your skills, projects, and personal details in a dynamic and visually appealing way.
-
-<!-- Key Features -->
-## Key Features
 
 ### About Section
 - Introduce yourself with a customizable "About Me" section.
@@ -64,7 +57,7 @@ Create a stunning personal portfolio website that's fully customizable and easy 
 - Personalize your portfolio's appearance, including fonts, colors, and layout.
 
 ### Technologies
-- Built using HTML, CSS, JavaScript, PHP, and MySQL.
+- Built using HTML, CSS, JavaScript, Bootstrap, PHP, and MySQL.
 
 ### Open Source
 - Feel free to fork and customize this portfolio template to suit your needs.
